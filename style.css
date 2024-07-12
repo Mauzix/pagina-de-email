@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+}
+#titulo {
+ color: blueviolet;
+}
+.text{
+    text-align: center;
+}
+#centro{
+    text-align: center;
+}
